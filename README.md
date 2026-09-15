@@ -2,7 +2,7 @@
 
 Họ tên: Lê Minh Tân
 
-Vai trò: Intern
+Vai trò: Intern IT
 
 Chương trình: LAZTAR PEEP 2026
 
